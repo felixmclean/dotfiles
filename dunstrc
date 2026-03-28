@@ -1,0 +1,7 @@
+[global]
+    font = DejaVu Sans Bold 13
+    width = (100, 500)
+    height = (0, 750)
+    enable_icons = no
+    timeout = 3
+
