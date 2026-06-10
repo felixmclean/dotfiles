@@ -8,7 +8,8 @@
 alias ls="ls -h --color=auto --group-directories-first"
 alias la="ls -lah --color=auto --group-directories-first"
 alias grep="grep --color=auto"
-alias vim="nvim"
+alias n="nvim"
 alias mv="mv -i"
 alias rm="rm -Iv"
+alias sudo="sudo -E"
 PS1='[\u@\h \W]\$ '
