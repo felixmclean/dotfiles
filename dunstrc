@@ -1,8 +1,8 @@
 [global]
-    font = DejaVu Sans Bold 13
-    width = (100, 500)
+    font = DejaVu Sans Bold 16
+    width = (0, 500)
     height = (0, 750)
     enable_icons = no
     stack_duplicates = false
     timeout = 3
-
+    frame_width = 2
